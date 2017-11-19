@@ -7,10 +7,6 @@ public class Main {
 		System.out.println("Hello co robimy!!!");
 =======
 		System.out.println("myje pyte");
-
-
-
-kurwaaa dzieje sie tu cos?
 >>>>>>> whats up
 	}
 }
